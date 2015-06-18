@@ -5,8 +5,12 @@
   "authors": [
     "The Polymer Authors"
   ],
-  "description": "\"Neon elements implement special effects.\"",
-  "main": "\"neon-elements.html\"",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/neon-elements.git"
+  },
+  "description": "Neon elements implement special effects.",
+  "main": "neon-elements.html",
   "keywords": [
     "web-components",
     "polymer",
