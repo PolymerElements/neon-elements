@@ -6,7 +6,7 @@ The neon elements are for flashy transitions and animations.
 
 ### Elements in progress
 
-* `neon-animations` - This is released an usable but we're still adding to it. It contains a ton of neat animation features, including much of the behavior previously in `core-animated-pages`.
+_No elements currently in progress - we release the `neon-animations` component which contains a ton of neat animation features, including much of the behavior previously in `core-animated-pages`._
 
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
