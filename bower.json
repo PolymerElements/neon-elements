@@ -1,6 +1,6 @@
 {
   "name": "neon-elements",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "https://github.com/PolymerElements/neon-elements",
   "authors": [
     "The Polymer Authors"
@@ -24,6 +24,13 @@
     "tests"
   ],
   "dependencies": {
-    "neon-animation": "PolymerElements/neon-animation#^1.0.0"
+    "neon-animation": "PolymerElements/neon-animation#2.0-preview"
+  },
+  "variants": {
+    "1.x": {
+      "dependencies": {
+        "neon-animation": "PolymerElements/neon-animation#^1.0.0"
+      }
+    }
   }
 }
